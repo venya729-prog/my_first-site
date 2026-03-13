@@ -1,0 +1,10 @@
+.cube {
+    width: 150px;
+    height: 150px;
+    background: red;
+}
+.cube2 {
+    width: 200px;
+    height: 200px;
+    background: rgb(55, 0, 255);
+}
